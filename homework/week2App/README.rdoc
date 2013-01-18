@@ -1,4 +1,6 @@
 == Week 2 Homework
 
 This is basically a "hello world" app.
-More to come...
+There are two content pages and a homepage:
+1) Favorites - very basic list of my favorite things
+2) Greet - displays a greeting, based on data passed in a url; for example, try adding '?salutation=Wazzzup' after the url on the greet page
